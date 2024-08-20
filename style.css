@@ -1,0 +1,12 @@
+body{
+    margin-top: 20px;
+    align-items: center;
+    padding-left: 20px;
+}
+form {
+    background-color: skyblue;
+    margin-left: 50px;
+}
+form div{
+    margin-left: 20px;
+}
